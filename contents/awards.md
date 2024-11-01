@@ -1,3 +1,5 @@
+- Patent: A fast single image defogging method (CN104240192 A)
+
 - Third prize of National Undergraduate Electronic Design Contest, China, 2011.
 
 - Second prize of Texas Instruments Electronic Design Contest, China, 2012.
