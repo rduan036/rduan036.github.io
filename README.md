@@ -1,1 +1,1 @@
-![Homepage](https://rduan036.github.io/)
+![Homepage](https://rduan036.github.io/#page-top)
