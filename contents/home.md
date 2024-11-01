@@ -5,9 +5,8 @@ Department of Land Surveying & Geo-Informatics (LSGI), The Hong Kong Polytechnic
 rduan[at]polyu.edu.hk
 
 #### Previous positions held:
-03/07/2022-03/01/2023: Post-doctoral Researcher, LSGI, PolyU.\
-27/11/2015-31/10/2017: Research Associate, Nanyang Technological University (NTU), Singapore.\
-01/02/2015-31/07/2015: Research Intern, ICube Laboratory, University of Strasbourg, France.
+2015-2017: Research Associate, Nanyang Technological University (NTU), Singapore.\
+2015: Research Intern, ICube Laboratory, University of Strasbourg, France.
 
 #### Education
 Ph.D. in Aeronautical and Aviation Engineering (AAE), the Hong Kong Polytechnic University, HK SAR, China, 2022.\
