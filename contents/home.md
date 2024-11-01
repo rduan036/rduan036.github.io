@@ -1,8 +1,12 @@
 Research Assistant Professor (RAP), Photogrammetry and Robotic Vision Laboratory,\
 Department of Land Surveying & Geo-Informatics (LSGI), The Hong Kong Polytechnic University (PolyU).
 
+####Lab homepage
+http://www.lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm
+
 #### Email
-rduan[at]polyu.edu.hk
+rduan[at]polyu.edu.hk\
+rduan036[at]gmail.com
 
 #### Previous positions held:
 2015-2017: Research Associate, Nanyang Technological University (NTU), Singapore.\

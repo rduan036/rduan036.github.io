@@ -9,3 +9,5 @@
 - The third place in IROS 2019 Autonomous Drone Racing, 2019.
 
 - Best paper award at the International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS), 2024.
+
+-*Total time played on Steam: 3000+ hours
