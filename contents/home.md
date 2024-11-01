@@ -1,7 +1,8 @@
 Research Assistant Professor (RAP), Photogrammetry and Robotic Vision Laboratory,\
 Department of Land Surveying & Geo-Informatics (LSGI), The Hong Kong Polytechnic University (PolyU).
 
-Committee members, Remote Sensing Surveying and Mapping for Deep Space Exploration, Chinese Society for Geodesy Photogrammetry and Cartography.
+Committee members, Remote Sensing Surveying and Mapping for Deep Space Exploration,\
+Chinese Society for Geodesy Photogrammetry and Cartography.
 
 #### Email
 rduan[at]polyu.edu.hk
