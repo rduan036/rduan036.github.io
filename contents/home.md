@@ -1,16 +1,14 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Research Assistant Professor (RAP), Department of Land Surveying & Geo-Informatics (LSGI), The Hong Kong Polytechnic University (PolyU).
 
 #### Email
-sli[at]cumt.edu.cn
+rduan[at]polyu.edu.hk
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D. in Aeronautical and Aviation Engineering, the Hong Kong Polytechnic University, HK SAR, China, 2022.\
+M.S. in Computer Vision and Robotics (European Erasmus Mundus programme: VIBOT), University of Burgundy, France, 2015.\
+B. E in Communication Engineering, Southwest University of Science and Technology, China, 2013.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Robotic Vision, Embodied AI, Edge AI, Photogrammetry, VSLAM, UAV.
 

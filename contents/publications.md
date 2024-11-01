@@ -1,12 +1,7 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu (2024). Label Noise-Robust Learning for Microseismic Arrival Time Picking. <strong>In revision.</strong> [[Code]](https://github.com/senli1073/LNRL)
+- <strong>R. Duan</strong>, L. Chen, Z. Li, Z. Chen, and B. Wu*, “A Joint Scene Graph Modeling Approach for UAV Visual Place Retrieval, ” IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>. [[Paper]](https://doi.org/10.1109/JSTARS.2024.3396168)[[Code]](https://github.com/rduan036/scene-graph-matching-demo.git)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- J. He,<strong>R. Duan</strong>, M. Dong, Y. Kao, G. Guo, and J. Liu, "CNN-Transformer Bridge Mode for Detecting Arcing Horn Defects in Railway Sectional Insulator," in IEEE Transactions on Instrumentation and Measurement <strong>(TIM)</strong>. [[Paper]](https://doi.org/10.1109/TIM.2024.3373084)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>R. Duan</strong>, D. Paudel, C. Wen, and P. Lu, "Filtering 2D-3D Outliers by Camera Adjustment for Visual Odometry," in IEEE Transactions on Instrumentation and Measurement <strong>(TIM)</strong>. [[Paper]](https://doi.org/10.1109/TIM.2023.3280507) [[Code]](https://github.com/rduan036/CamAdj)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- <strong>R. Duan</strong>, C. Fu, D. Paudel, and P. Lu, "Stereo Orientation Prior for UAV Robust and Accurate Visual Odometry," in IEEE/ASME Transactions on Mechatronics <strong>(TMECH)</strong>. [[Paper]](http://dx.doi.org/10.1109/TMECH.2022.3140923) [[Code]](https://github.com/arclab-hku/SOPVO)
