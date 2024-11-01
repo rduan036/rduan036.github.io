@@ -1,7 +1,7 @@
 Research Assistant Professor (RAP), Photogrammetry and Robotic Vision Laboratory,\
 Department of Land Surveying & Geo-Informatics (LSGI), The Hong Kong Polytechnic University (PolyU).
 
-####Lab homepage
+#### Lab homepage
 http://www.lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm
 
 #### Email
@@ -24,4 +24,14 @@ Planetary Robotic Vision, Embodied AI, Edge AI, VSLAM, UAV.
 #### Professional Service
 Committee members, Remote Sensing Surveying and Mapping for Deep Space Exploration, \
 Chinese Society for Geodesy Photogrammetry and Cartography.
+
+#### Other links
+
+Linkedin: www.linkedin.com/in/ran-duan-0402309b
+
+Google Scholar: https://scholar.google.com/citations?user=i3XEo1gAAAAJ&hl=en
+
+PolyU LSGI: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-ran-duan/
+
+
 

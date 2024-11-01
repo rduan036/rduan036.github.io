@@ -1,4 +1,8 @@
-- Patent: A fast single image defogging method (CN104240192 A)
+#### Patent
+
+A fast single image defogging method (CN104240192 A)
+
+#### Awards
 
 - Third prize of National Undergraduate Electronic Design Contest, China, 2011.
 
@@ -10,4 +14,8 @@
 
 - Best paper award at the International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS), 2024.
 
--*Total time played on Steam: 3000+ hours
+#### Achievements
+
+- Steam总游戏时间: 3000+ hours
+
+- bilibili LV6 大会员
