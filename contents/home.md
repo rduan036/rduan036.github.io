@@ -5,12 +5,12 @@ Department of Land Surveying & Geo-Informatics (LSGI), The Hong Kong Polytechnic
 http://www.lsgi.polyu.edu.hk/staff/Bo.Wu/index.htm
 
 #### Email
-rduan[at]polyu.edu.hk\
-rduan036[at]gmail.com
+rduan[at]polyu.edu.hk
 
 #### Previous positions held:
 2015-2017: Research Associate, Nanyang Technological University (NTU), Singapore.\
-2015: Research Intern, ICube Laboratory, University of Strasbourg, France.
+2015: Research Intern, ICube Laboratory, University of Strasbourg, France.\
+2014: Research Intern, INRA (Dijon), Le2i (CNRS, U. of Bourgogne), France.
 
 #### Education
 Ph.D. in Aeronautical and Aviation Engineering (AAE), the Hong Kong Polytechnic University, HK SAR, China, 2022.\
@@ -22,8 +22,9 @@ B. E in Communication Engineering, Southwest University of Science and Technolog
 Planetary Robotic Vision, Embodied AI, Edge AI, VSLAM, UAV.
 
 #### Professional Service
-Committee members, Remote Sensing Surveying and Mapping for Deep Space Exploration, \
-Chinese Society for Geodesy Photogrammetry and Cartography.
+中国测绘学会深空探测遥感测绘工作委员会首批委员\
+（Committee member, Remote Sensing Surveying and Mapping for Deep Space Exploration, \
+Chinese Society for Geodesy Photogrammetry and Cartography.）
 
 #### Other links
 
