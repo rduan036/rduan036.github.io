@@ -26,13 +26,9 @@ Planetary Robotic Vision, Embodied AI, Edge AI, VSLAM, UAV.
 （Committee member, Remote Sensing Surveying and Mapping for Deep Space Exploration, \
 Chinese Society for Geodesy Photogrammetry and Cartography.）
 
-#### Other links
-
-Linkedin: www.linkedin.com/in/ran-duan-0402309b
-
-Google Scholar: https://scholar.google.com/citations?user=i3XEo1gAAAAJ&hl=en
-
-PolyU LSGI: https://www.polyu.edu.hk/lsgi/people/academic-staff/dr-ran-duan/
+#### Teaching
+LSGI3333_Photogrammetry\
+LSGI549_Advanced Photogrammetry and Computer Vision
 
 
 
