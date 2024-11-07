@@ -5,15 +5,15 @@
 
 #### Awards
 
-- Third prize, National Undergraduate Electronic Design Contest, China, 2011.
-
-- Second prize, Texas Instruments Electronic Design Contest, China, 2012.
-
-- Excellent graduate paper prize, Southwest University of Science and Technology, China, 2013.
+- Best Paper Award, 2024  ISPRS TC-I  Symposium
 
 - The third place, IROS2019 Autonomous Drone Racing, 2019.
 
-- Best paper award, the International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS), 2024.
+- Excellent graduate paper prize, Southwest University of Science and Technology, China, 2013.
+
+- Second prize, Texas Instruments Electronic Design Contest (全国大学生电子设计竟赛TI杯), China, 2012.
+
+- Third prize, National Undergraduate Electronic Design Contest (全国大学生电子设计竟赛), China, 2011.
 
 #### Achievements
 
