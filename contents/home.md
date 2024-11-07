@@ -27,8 +27,8 @@ Planetary Robotic Vision, Embodied AI, Edge AI, VSLAM, UAV.
 Chinese Society for Geodesy Photogrammetry and Cartography.）
 
 #### Teaching
-LSGI3333_Photogrammetry\
-LSGI549_Advanced Photogrammetry and Computer Vision
+LSGI3333 Photogrammetry \
+LSGI549 Advanced Photogrammetry and Computer Vision
 
 
 
