@@ -11,9 +11,9 @@
 
 - Excellent graduate paper prize, Southwest University of Science and Technology, China, 2013.
 
-- Second prize, Texas Instruments Electronic Design Contest (全国大学生电子设计竟赛TI杯), China, 2012.
+- Second prize, Texas Instruments Electronic Design Contest (全国大学生电子设计竞赛TI杯), China, 2012.
 
-- Third prize, National Undergraduate Electronic Design Contest (全国大学生电子设计竟赛), China, 2011.
+- Third prize, National Undergraduate Electronic Design Contest (全国大学生电子设计竞赛), China, 2011.
 
 #### Achievements
 
