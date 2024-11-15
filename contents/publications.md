@@ -21,3 +21,6 @@
 - <strong>R. Duan</strong>, C. Fu and E. Kayacan: Recoverable Recommended Keypoint-aware Visual Tracking Using Coupled-layer Appearance Modelling. IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2016. 
 
 - <strong>R. Duan</strong>, C. Fu, E. Kayacan and D. P. Paudel: Recommended Keypoint-Aware Tracker: Adaptive Real-time Visual Tracking Using Consensus Feature Prior Ranking. IEEE International Conference on Image Processing <strong>(ICIP oral)</strong>, 2016.
+
+#### Ph.D. Thesis
+ - <strong>R. Duan</strong>, Visual smart navigation for UAV mission-oriented flight, Hong Kong Polytechnic University [[Paper]](https://doi.org/10.1016/j.engappai.2017.05.012) [[Code]](https://github.com/rduan036/E2ES-extended)
