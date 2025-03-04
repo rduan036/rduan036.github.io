@@ -14,9 +14,3 @@
 - Second prize, Texas Instruments Electronic Design Contest (全国大学生电子设计竞赛TI杯), China, 2012.
 
 - Third prize, National Undergraduate Electronic Design Contest (全国大学生电子设计竞赛), China, 2011.
-
-#### Achievements
-
-- Steam总游戏时间: 3000+ hours
-
-- bilibili LV6 大会员
