@@ -12,6 +12,8 @@
 - <strong>R. Duan</strong>, C. Fu, and E. Kayacan, "Tracking-Recommendation-Detection: A Novel Online Target Modeling for Visual Tracking," in Engineering Applications of Artificial Intelligence <strong>(EAAI)</strong>, 2017. [[Paper]](https://doi.org/10.1016/j.engappai.2017.05.012) [[Code]](https://github.com/rduan036/TRD_demo)
 
 #### Conference
+S. Chen, Z. Li, Z. Chen, Q. Yan, G. shen, <strong>R. Duan*</strong>,“3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene,”IEEE/RSJ International Conference on Intelligent Robots and Systems <strong>(IROS)</strong>, 2025. (Accepted as oral presentation)
+
 - <strong>R. Duan</strong>, B. Wu, L. Chen, H. Zhou, Q. Fan, “AI-Driven Dim-Light Adaptive Camera (DimCam) for Lunar Robots,” The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (ISPRS), 48: 141-146, 2024. <strong>(Best paper award)</strong>.
 
 - <strong>R. Duan</strong>, C. Fu, K. Alexis, and E. Kayacan, “Online Recommendation-based Convolutional Features for Scale-Aware Visual Tracking,” IEEE International Conference on Robotics and Automation <strong>(ICRA)</strong>, 2021. [[Code]](https://github.com/arclab-hku/ICRA2021tracking)
