@@ -1,3 +1,6 @@
+#### Project
+- Multimodal Visual Route Following for UAV  Precision Repeat-Pass Surveying, Funded by The Research Grants Council of Hong Kong (GRF), HK$ 999,814, 01/2026-12/2028, Principal Investigator.
+
 #### Journal
 - <strong>R. Duan</strong>, L. Chen, Z. Li, Z. Chen, and B. Wu*, "A Scene Graph Encoding and Matching Network for UAV Visual Localization," IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing <strong>(JSTARS)</strong>, 2024. [[Paper]](https://doi.org/10.1109/JSTARS.2024.3396168)[[Code]](https://github.com/rduan036/scene-graph-matching-demo.git)
 
